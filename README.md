@@ -1,4 +1,4 @@
-Code for the paper "Fair k-centers via maximum matching"
+## Code for the paper "Fair k-centers via maximum matching"
 
 ## Files:
 
